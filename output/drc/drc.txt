@@ -1,5 +1,5 @@
 ** Drc report for usbc-dual-rail.kicad_pcb **
-** Created on 2026-04-28T03:20:22 **
+** Created on 2026-04-28T21:15:11 **
 ** Report includes: Errors, Warnings **
 
 ** Found 2 DRC violations **
@@ -12,18 +12,6 @@
     @(3.0000 mm, -0.1500 mm): Reference field of H1
 
 ** Found 9 unconnected pads **
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(32.9900 mm, 11.0000 mm): Pad 1 [VBUS] of R10 on F.Cu
-    @(45.0000 mm, 11.0000 mm): PTH pad 1 [VBUS] of J2
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(32.9900 mm, 11.0000 mm): Pad 1 [VBUS] of R10 on F.Cu
-    @(11.8000 mm, 11.8500 mm): Track [VBUS] on F.Cu, length 7.9000 mm
-[unconnected_items]: Missing connection between items
-    Local override; error
-    @(34.0100 mm, 11.0000 mm): Pad 2 [N_D2] of R10 on F.Cu
-    @(37.9375 mm, 11.0000 mm): Pad 2 [N_D2] of D2 on F.Cu
 [unconnected_items]: Missing connection between items
     Local override; error
     @(22.0000 mm, 11.8500 mm): Pad 2 [+3V3] of U1 on F.Cu
@@ -48,6 +36,18 @@
     Local override; error
     @(34.0100 mm, 19.0000 mm): Pad 2 [N_D1] of R3 on F.Cu
     @(37.9375 mm, 19.0000 mm): Pad 2 [N_D1] of D1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(32.9900 mm, 11.0000 mm): Pad 1 [VBUS] of R10 on F.Cu
+    @(45.0000 mm, 11.0000 mm): PTH pad 1 [VBUS] of J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(32.9900 mm, 11.0000 mm): Pad 1 [VBUS] of R10 on F.Cu
+    @(19.7000 mm, 11.8500 mm): Pad 3 [VBUS] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(34.0100 mm, 11.0000 mm): Pad 2 [N_D2] of R10 on F.Cu
+    @(37.9375 mm, 11.0000 mm): Pad 2 [N_D2] of D2 on F.Cu
 
 ** Found 0 Footprint errors **
 
